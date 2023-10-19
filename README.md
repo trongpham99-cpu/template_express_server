@@ -5,7 +5,7 @@
 create a new environment file:
 
 ```
-    touch .env
+touch .env
 ```
 
 edit file .env with script below:
